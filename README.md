@@ -58,10 +58,10 @@ An AI-enhanced learning and academic analytics platform designed for universitie
 
 ## 📫 Connect
 
-I'm open to **software engineering opportunities, internships, and collaborations**.
+I'm open to **software engineering opportunities and collaborations**.
 
-* LinkedIn: [linkedin.com/in/rekik-legese](https://www.linkedin.com/in/rekik-legese)
-* Email: [rekiklegese@gmail.com](mailto:rekiklegese@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rekik-legese)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rekiklegese@gmail.com)
 
 ---
 
